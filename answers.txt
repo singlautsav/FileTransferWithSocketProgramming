@@ -1,0 +1,8 @@
+Assignment 1
+Utsav Singla
+2018321
+
+a. There are about 917 connections of TCP with 40% RSL connections for 1.1MB file de.html
+b. Server Port --> 5000, Client Port --> 37364
+c. 34495 packets for file are exchangd between client and server.
+d. It takes about 0.74 seconds to transfer 1.1MB file
